@@ -1,1 +1,1 @@
-SELECT "Hello world!";
+SELECT "Olá Mundo! Como vai?";
